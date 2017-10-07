@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  rrricanesdata:
+    build: .
+    ports:
+      - "8787:8787"

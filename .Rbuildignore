@@ -7,3 +7,7 @@
 ^\.Rproj\.user$
 ^docs$
 ^.github$
+^packages\.R$
+^Dockerfile$
+^docker-compose\.yml$
+^docker-build\.sh$
